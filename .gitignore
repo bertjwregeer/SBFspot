@@ -1,3 +1,6 @@
+#Directories
+SBFspot/bin/*
+
 # Object files
 *.o
 
